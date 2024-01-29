@@ -1,1 +1,1 @@
-# HTML_Challenge
+Completion process I would first attempt to find each of these value using my memory, then i would lookinto the class notes and activities as a way to find out my next course of action when i was lost. After doing these steps i would consult ChatGPT to find out where i went wrong and would use its assitance to correct the code as well as explain its proccess to me so i could understand for the future how to fulfill these tasks without aid.
